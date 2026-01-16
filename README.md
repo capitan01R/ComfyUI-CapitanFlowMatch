@@ -123,7 +123,7 @@ Use with **SamplerCustom** or **KSampler** nodes.
 | Speed | capitan_flowmatch_turbo | 8 | 1.0 | 1.0 |
 | **Quality** | capitan_flowmatch | **36** | **6.0** | **2.0** |
 
-> **💡 Hidden Quality Mode:** Z-Image-Turbo at 36 steps with shift 6.0 produces exceptional results. Standard samplers burn at these settings — Capitan doesn't.
+> ** Hidden Quality Mode:** Z-Image-Turbo at 36 steps with shift 6.0 produces exceptional results. Standard samplers distortes at these settings — Capitan doesn't.
 
 ### Flux
 
