@@ -3,7 +3,7 @@
 **Optimal samplers and schedulers for rectified flow models.**
 
 Lumina2, Flux, SD3, and Z-Image use rectified flow — a fundamentally different architecture than SD1.5/SDXL. Using standard samplers leaves quality on the table.
-![img](examples/workflow.png)
+![img](examples/workflow_eg.png)
 
 ## Generated Portraits (Z-Image-Turbo Quality Preset)
 
