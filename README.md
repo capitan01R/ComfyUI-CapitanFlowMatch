@@ -26,7 +26,7 @@ Click any thumbnail for full resolution:
 
 ## Why?
 
-Try running Z-Image-Turbo at 36 steps with the default euler sampler.
+Try running Z-Image-Turbo at 36 steps and high cfg with the default euler sampler.
 
 It burns.
 
