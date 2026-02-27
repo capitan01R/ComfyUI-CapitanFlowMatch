@@ -1,4 +1,6 @@
 # ⚓ ComfyUI-CapitanFlowMatch
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-yellow.svg)](https://buymeacoffee.com/capitan01r)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 **Optimal samplers and schedulers for rectified flow models.**
 
